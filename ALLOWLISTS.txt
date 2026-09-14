@@ -1,0 +1,11 @@
+! Governo / SEAP
+@@||gov.br^
+@@||pa.gov.br^
+@@||seap.pa.gov.br^
+
+! WhatsApp
+@@||whatsapp.com^
+@@||whatsapp.net^
+
+! Google
+@@||google.com^
