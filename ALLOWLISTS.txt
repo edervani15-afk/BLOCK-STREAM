@@ -8,6 +8,9 @@
 @@||whatsapp.com^
 @@||whatsapp.net^
 
+! Navegadores
+@@||bing.com^
+
 ! Google
 @@||google.com.br^
 @@||google.com^
@@ -21,7 +24,7 @@
 @@||telegram.org^
 @@||doubleclick.net^
 @@||google-analytics.com^
-@@||bing.com^
+
 
 ! Anydesk
 @@||anydesk.com^
