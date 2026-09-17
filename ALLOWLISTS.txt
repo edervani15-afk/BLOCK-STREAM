@@ -9,3 +9,10 @@
 
 ! Google
 @@||google.com^
+@@||googleapis.com^
+@@||googletagmanager.com^
+@@||gstatic.com^
+@@||googleadservices.com^
+@@||microsoft.com^
+@@||banpara.b.br^
+@@||googleusercontent.com^
