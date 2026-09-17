@@ -8,6 +8,7 @@
 @@||whatsapp.net^
 
 ! Google
+@@||google.com.br^
 @@||google.com^
 @@||googleapis.com^
 @@||googletagmanager.com^
@@ -16,3 +17,6 @@
 @@||microsoft.com^
 @@||banpara.b.br^
 @@||googleusercontent.com^
+@@||telegram.org^
+@@||doubleclick.net^
+@@||google-analytics.com^
