@@ -21,6 +21,7 @@
 @@||telegram.org^
 @@||doubleclick.net^
 @@||google-analytics.com^
+@@||bing.com^
 
 ! Anydesk
 @@||anydesk.com^
