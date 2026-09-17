@@ -20,3 +20,6 @@
 @@||telegram.org^
 @@||doubleclick.net^
 @@||google-analytics.com^
+
+! Anydesk
+@@||anydesk.com^
