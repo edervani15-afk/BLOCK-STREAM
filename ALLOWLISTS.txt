@@ -2,6 +2,7 @@
 @@||gov.br^
 @@||pa.gov.br^
 @@||seap.pa.gov.br^
+@@||jus.br^
 
 ! WhatsApp
 @@||whatsapp.com^
